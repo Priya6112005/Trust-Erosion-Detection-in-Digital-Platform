@@ -1,0 +1,1001 @@
+user_id,session_id,timestamp,action,time_spent_sec,visited_policy,review_text,purchase_completed,trust_stage,Unnamed: 9,Unnamed: 10,hesitation_level,abandonment,policy_anxiety,doubt_signal
+U588,S7467,14-02-2026 16:53,payment_page_viewed,61,No,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,0,1
+U448,S7587,11-01-2026 10:49,checkout_started,9,No,,Yes,normal,,,Low,0,0,0
+U808,S4395,20-02-2026 15:52,exit,137,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U858,S4256,12-01-2026 16:15,review_posted,31,Yes,,Yes,erosion,,,Medium,0,1,0
+U696,S2421,31-01-2026 03:25,view_product,11,No,,Yes,normal,,in,Low,0,0,0
+U155,S6611,06-01-2026 18:31,view_product,89,Yes,,No,erosion,,,High,0,1,0
+U478,S8650,18-02-2026 16:34,checkout_started,123,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U964,S1720,19-01-2026 03:32,exit,135,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U364,S4130,13-02-2026 07:57,help_center_visit,61,No,,No,erosion,,,High,0,0,0
+U138,S6807,16-01-2026 04:23,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U674,S5914,30-01-2026 11:58,checkout_started,80,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U687,S3851,06-02-2026 19:26,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U493,S2767,27-01-2026 06:37,view_product,58,No,,Yes,erosion,,,Medium,0,0,0
+U242,S8968,29-01-2026 23:43,view_product,73,Yes,Something feels different now,No,erosion,,,High,0,1,1
+U658,S5686,20-01-2026 13:56,exit,131,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U665,S8917,02-02-2026 07:21,add_to_cart,85,No,,Yes,erosion,,,High,0,0,0
+U282,S3853,04-02-2026 16:46,checkout_started,68,Yes,,No,erosion,,,High,1,1,0
+U215,S7184,03-02-2026 10:28,help_center_visit,124,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U447,S5465,12-02-2026 19:14,help_center_visit,83,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U113,S3586,13-02-2026 15:43,help_center_visit,80,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,0,1,1
+U370,S2847,02-02-2026 00:07,checkout_started,7,No,,Yes,normal,,,Low,0,0,0
+U714,S6793,09-01-2026 09:21,browse,13,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U336,S4701,28-01-2026 21:17,payment_page_viewed,36,No,,Yes,erosion,,,Medium,0,0,0
+U160,S5807,05-01-2026 22:57,exit,75,Yes,I used to trust this more earlier,Yes,erosion,,,High,0,1,1
+U827,S2913,02-01-2026 20:29,help_center_visit,176,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U465,S2649,23-01-2026 07:58,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U692,S5594,21-02-2026 15:42,checkout_started,48,No,I used to trust this more earlier,Yes,erosion,,,Medium,0,0,1
+U749,S4171,12-02-2026 16:12,review_posted,59,No,,No,erosion,,,Medium,0,0,0
+U857,S2299,25-01-2026 20:05,checkout_started,140,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U454,S8418,19-02-2026 14:16,help_center_visit,142,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U256,S4862,12-01-2026 16:18,checkout_started,179,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U587,S5210,19-02-2026 02:39,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U631,S5668,01-02-2026 18:41,review_posted,88,Yes,,Yes,erosion,,,High,0,1,0
+U523,S8633,04-01-2026 13:49,browse,15,No,,Yes,normal,,,Low,0,0,0
+U212,S2054,03-01-2026 22:11,exit,122,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U518,S6964,25-01-2026 06:37,checkout_started,161,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U203,S7370,30-01-2026 18:50,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U608,S8189,02-01-2026 16:49,help_center_visit,37,No,,No,erosion,,,Medium,0,0,0
+U613,S9808,22-01-2026 21:55,exit,95,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U745,S2698,17-02-2026 17:53,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U187,S1433,06-01-2026 04:47,exit,45,No,I used to trust this more earlier,No,erosion,,,Medium,0,0,1
+U271,S6183,03-01-2026 03:17,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U572,S3125,27-01-2026 21:14,browse,5,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U400,S7213,15-01-2026 21:57,help_center_visit,113,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U893,S8395,25-01-2026 03:41,add_to_cart,58,Yes,Something feels different now,Yes,erosion,,,Medium,0,1,1
+U222,S8588,04-02-2026 22:39,checkout_started,7,No,,Yes,normal,,,Low,0,0,0
+U409,S1148,19-01-2026 01:06,help_center_visit,170,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U732,S7324,19-01-2026 01:08,browse,5,No,,Yes,normal,,,Low,0,0,0
+U546,S9277,20-02-2026 19:14,browse,5,No,,Yes,normal,,,Low,0,0,0
+U186,S3011,07-01-2026 13:48,checkout_started,116,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U468,S5812,11-01-2026 22:02,policy_view,74,No,,Yes,erosion,,,High,0,0,0
+U389,S3187,17-02-2026 18:30,browse,6,No,,Yes,normal,,,Low,0,0,0
+U448,S7507,10-02-2026 01:39,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U430,S5249,02-02-2026 00:40,checkout_started,158,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U923,S4374,02-02-2026 10:24,help_center_visit,105,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U517,S6138,07-02-2026 09:58,review_posted,85,No,Will think before buying,No,erosion,,,High,0,0,1
+U705,S1432,02-01-2026 03:43,browse,75,Yes,Will think before buying,Yes,erosion,,,High,0,1,1
+U212,S2523,08-02-2026 18:21,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U740,S1232,13-02-2026 06:25,checkout_started,127,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U316,S9515,14-02-2026 02:10,exit,117,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U140,S1093,21-01-2026 06:45,browse,8,No,,Yes,normal,,,Low,0,0,0
+U278,S5149,30-01-2026 16:16,checkout_started,159,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U618,S2549,14-01-2026 13:35,exit,135,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U639,S4205,01-02-2026 18:39,browse,5,No,,Yes,normal,,,Low,0,0,0
+U377,S1004,28-01-2026 21:22,browse,15,No,,Yes,normal,,,Low,0,0,0
+U908,S1620,03-01-2026 16:10,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U886,S7280,16-01-2026 10:36,review_posted,39,Yes,,Yes,erosion,,,Medium,0,1,0
+U173,S1780,07-01-2026 12:42,add_to_cart,85,Yes,,Yes,erosion,,,High,0,1,0
+U814,S7043,05-02-2026 04:49,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U105,S7438,17-02-2026 00:45,add_to_cart,42,No,,No,erosion,,,Medium,0,0,0
+U854,S4084,11-02-2026 14:27,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U609,S6713,20-02-2026 13:10,view_product,80,Yes,,Yes,erosion,,,High,0,1,0
+U887,S1109,11-02-2026 04:06,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U269,S1890,06-01-2026 01:44,exit,89,No,Will think before buying,No,erosion,,,High,0,0,1
+U323,S8374,31-01-2026 22:29,exit,133,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U460,S4864,27-01-2026 01:34,browse,47,No,,Yes,erosion,,,Medium,0,0,0
+U542,S3852,21-02-2026 04:56,exit,93,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U766,S5131,22-01-2026 17:08,help_center_visit,139,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U684,S1787,20-01-2026 04:33,help_center_visit,86,Yes,Will think before buying,Yes,erosion,,,High,0,1,1
+U305,S8658,07-02-2026 10:04,help_center_visit,106,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U154,S6718,16-01-2026 19:37,view_product,47,Yes,,No,erosion,,,Medium,0,1,0
+U215,S6212,27-01-2026 02:41,view_product,39,No,,No,erosion,,,Medium,0,0,0
+U573,S2338,02-01-2026 20:00,review_posted,85,Yes,I used to trust this more earlier,Yes,erosion,,,High,0,1,1
+U897,S5962,02-02-2026 17:43,checkout_started,136,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U203,S7713,12-02-2026 14:37,review_posted,72,No,Something feels different now,Yes,erosion,,,High,0,0,1
+U621,S3242,11-01-2026 20:48,help_center_visit,127,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U329,S3189,19-01-2026 00:29,policy_view,40,No,,No,erosion,,,Medium,0,0,0
+U231,S1708,13-02-2026 12:28,help_center_visit,126,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U814,S2710,23-02-2026 10:10,view_product,7,No,,Yes,normal,,,Low,0,0,0
+U484,S9499,07-01-2026 07:50,browse,8,No,,Yes,normal,,,Low,0,0,0
+U853,S8864,11-02-2026 15:38,browse,12,No,,Yes,normal,,,Low,0,0,0
+U565,S8281,16-01-2026 11:48,browse,90,No,,Yes,erosion,,,High,0,0,0
+U190,S7132,29-01-2026 15:12,checkout_started,116,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U413,S8258,19-01-2026 22:11,add_to_cart,87,Yes,Will think before buying,No,erosion,,,High,0,1,1
+U605,S4221,10-02-2026 03:04,add_to_cart,39,No,,No,erosion,,,Medium,0,0,0
+U877,S5030,05-02-2026 02:04,view_product,5,No,Easy to use,Yes,normal,,,Low,0,0,0
+U513,S3678,13-01-2026 13:22,view_product,75,Yes,,Yes,erosion,,,High,0,1,0
+U888,S2876,03-02-2026 04:19,checkout_started,90,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U830,S9760,20-01-2026 20:55,browse,12,No,,Yes,normal,,,Low,0,0,0
+U991,S7882,16-02-2026 06:04,view_product,9,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U775,S6202,25-01-2026 04:57,exit,109,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U481,S1702,17-02-2026 10:23,help_center_visit,99,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U557,S7279,16-01-2026 00:50,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U675,S6555,05-01-2026 06:14,exit,153,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U407,S2461,09-02-2026 10:08,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U237,S2279,05-01-2026 01:01,browse,6,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U485,S4047,08-01-2026 04:03,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U962,S6927,04-02-2026 14:10,checkout_started,46,No,,Yes,erosion,,,Medium,0,0,0
+U824,S2322,21-02-2026 18:10,view_product,76,Yes,I used to trust this more earlier,Yes,erosion,,,High,0,1,1
+U270,S9368,10-01-2026 17:45,policy_view,47,Yes,,No,erosion,,,Medium,0,1,0
+U832,S8485,12-02-2026 14:20,add_to_cart,41,No,,Yes,erosion,,,Medium,0,0,0
+U462,S6693,08-02-2026 04:15,payment_page_viewed,54,No,Not very confident about this,Yes,erosion,,,Medium,0,0,1
+U949,S6284,03-02-2026 16:23,exit,129,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U770,S8412,22-01-2026 12:14,exit,59,Yes,Will think before buying,No,erosion,,,Medium,0,1,1
+U135,S3508,14-01-2026 16:31,policy_view,70,Yes,,No,erosion,,,High,0,1,0
+U870,S7947,07-01-2026 02:15,help_center_visit,31,No,,No,erosion,,,Medium,0,0,0
+U774,S3002,22-01-2026 16:03,browse,14,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U521,S4654,27-01-2026 17:10,checkout_started,91,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U720,S5179,26-01-2026 19:00,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U361,S3858,15-02-2026 14:50,browse,9,No,,Yes,normal,,,Low,0,0,0
+U416,S4726,03-02-2026 21:22,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U153,S4020,23-02-2026 03:53,exit,89,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U640,S5086,01-02-2026 21:39,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U851,S3463,11-01-2026 10:29,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U442,S1782,17-02-2026 04:25,exit,72,No,,Yes,erosion,,,High,0,0,0
+U197,S8019,12-01-2026 15:57,exit,90,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U593,S1010,20-01-2026 06:23,review_posted,49,No,,Yes,erosion,,,Medium,0,0,0
+U802,S1398,19-02-2026 14:33,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U649,S2613,06-02-2026 21:46,help_center_visit,79,No,I used to trust this more earlier,No,erosion,,,High,0,0,1
+U663,S4503,05-02-2026 10:20,view_product,33,No,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,0,1
+U305,S4184,11-01-2026 13:31,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U359,S6996,11-02-2026 22:02,browse,47,Yes,,No,erosion,,,Medium,0,1,0
+U861,S1362,21-02-2026 09:01,browse,9,No,,Yes,normal,,,Low,0,0,0
+U556,S1142,30-01-2026 15:24,help_center_visit,90,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U255,S9228,21-01-2026 03:54,exit,87,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U502,S3414,20-01-2026 03:31,review_posted,85,Yes,Not very confident about this,No,erosion,,,High,0,1,1
+U400,S2119,04-01-2026 21:33,browse,44,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,1,1
+U156,S8652,11-01-2026 01:02,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U867,S5832,05-01-2026 20:48,policy_view,77,No,,Yes,erosion,,,High,0,0,0
+U875,S6800,22-02-2026 05:48,checkout_started,12,No,Easy to use,Yes,normal,,,Low,0,0,0
+U121,S7257,23-01-2026 04:37,payment_page_viewed,65,Yes,,No,erosion,,,High,0,1,0
+U158,S2646,20-02-2026 16:29,browse,9,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U882,S6710,17-01-2026 17:48,policy_view,51,No,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,0,1
+U132,S9985,29-01-2026 09:35,view_product,65,Yes,Something feels different now,No,erosion,,,High,0,1,1
+U436,S9235,18-02-2026 16:59,exit,86,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U225,S5001,13-01-2026 10:19,policy_view,87,Yes,,No,erosion,,,High,0,1,0
+U693,S1172,07-02-2026 01:30,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U517,S4319,23-02-2026 06:54,checkout_started,14,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U861,S4072,20-02-2026 17:53,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U756,S5949,05-01-2026 16:40,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U724,S5149,14-02-2026 00:45,checkout_started,161,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U396,S7379,13-02-2026 09:24,checkout_started,176,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U650,S7383,22-01-2026 17:41,browse,11,No,,Yes,normal,,,Low,0,0,0
+U386,S6856,09-02-2026 04:34,review_posted,88,No,,No,erosion,,,High,0,0,0
+U376,S8834,07-01-2026 01:00,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U109,S9177,27-01-2026 16:54,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U769,S5305,17-01-2026 12:11,checkout_started,7,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U598,S3701,26-01-2026 03:40,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U605,S6444,11-01-2026 08:44,help_center_visit,40,No,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,0,1
+U220,S6575,10-01-2026 06:17,review_posted,71,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U238,S5994,21-02-2026 16:23,browse,9,No,,Yes,normal,,,Low,0,0,0
+U115,S9341,21-01-2026 20:20,exit,81,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U959,S2648,19-02-2026 15:08,add_to_cart,10,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U575,S5534,04-01-2026 17:52,exit,77,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U254,S2962,21-01-2026 04:34,browse,9,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U614,S7406,11-02-2026 12:56,help_center_visit,120,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U902,S1022,17-02-2026 01:52,checkout_started,72,Yes,Not very confident about this,Yes,erosion,,,High,0,1,1
+U507,S3765,07-02-2026 08:11,browse,15,No,,Yes,normal,,,Low,0,0,0
+U752,S7733,18-02-2026 07:45,checkout_started,63,Yes,,Yes,erosion,,,High,0,1,0
+U554,S7602,08-01-2026 07:06,payment_page_viewed,78,Yes,,No,erosion,,,High,0,1,0
+U181,S8268,10-02-2026 08:07,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U356,S3818,07-01-2026 06:51,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U988,S5066,15-01-2026 03:08,help_center_visit,44,No,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,0,1
+U102,S6381,21-01-2026 01:20,browse,68,Yes,,Yes,erosion,,,High,0,1,0
+U329,S3535,05-01-2026 09:23,browse,14,No,,Yes,normal,,,Low,0,0,0
+U526,S6208,20-02-2026 21:07,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U922,S9851,15-02-2026 07:10,checkout_started,14,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U687,S1501,06-02-2026 02:44,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U134,S1960,15-02-2026 22:06,browse,10,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U913,S1942,09-02-2026 01:08,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U982,S9507,16-02-2026 06:44,review_posted,88,No,,Yes,erosion,,,High,0,0,0
+U822,S7642,27-01-2026 01:57,checkout_started,72,Yes,,Yes,erosion,,,High,0,1,0
+U299,S3075,29-01-2026 17:41,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U593,S4892,17-02-2026 22:14,exit,68,No,,Yes,erosion,,,High,0,0,0
+U116,S7745,10-01-2026 21:15,view_product,12,No,,Yes,normal,,,Low,0,0,0
+U588,S5002,23-02-2026 03:23,exit,130,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U211,S6618,28-01-2026 08:07,browse,8,No,,Yes,normal,,,Low,0,0,0
+U486,S9854,19-02-2026 13:38,checkout_started,7,No,Easy to use,Yes,normal,,,Low,0,0,0
+U235,S9878,02-01-2026 14:15,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U184,S1118,18-01-2026 08:56,exit,70,No,Not very confident about this,No,erosion,,,High,0,0,1
+U336,S7804,24-01-2026 13:21,browse,6,No,,Yes,normal,,,Low,0,0,0
+U819,S7296,22-01-2026 20:27,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U333,S8442,12-02-2026 19:05,browse,12,No,,Yes,normal,,,Low,0,0,0
+U376,S5570,17-01-2026 09:06,add_to_cart,30,No,Something feels different now,No,erosion,,,Medium,0,0,1
+U334,S3546,25-01-2026 17:22,help_center_visit,138,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U199,S3025,16-01-2026 23:28,checkout_started,71,No,,Yes,erosion,,,High,0,0,0
+U764,S2835,02-01-2026 09:12,checkout_started,45,No,,Yes,erosion,,,Medium,0,0,0
+U332,S7374,08-02-2026 04:46,exit,158,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U720,S1573,27-01-2026 03:53,help_center_visit,88,Yes,,Yes,erosion,,,High,0,1,0
+U182,S2755,06-01-2026 20:53,browse,9,No,,Yes,normal,,,Low,0,0,0
+U253,S1024,19-02-2026 06:02,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U604,S5867,12-02-2026 01:59,view_product,9,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U831,S2987,22-01-2026 22:23,add_to_cart,77,Yes,,No,erosion,,,High,0,1,0
+U939,S5319,17-02-2026 00:16,add_to_cart,9,No,,Yes,normal,,,Low,0,0,0
+U915,S3286,25-01-2026 03:47,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U437,S8343,08-02-2026 02:10,review_posted,62,No,,No,erosion,,,High,0,0,0
+U626,S3097,03-02-2026 00:12,view_product,61,Yes,,Yes,erosion,,,High,0,1,0
+U660,S7558,05-01-2026 12:34,browse,12,No,,Yes,normal,,,Low,0,0,0
+U947,S2789,04-01-2026 09:52,help_center_visit,57,Yes,,Yes,erosion,,,Medium,0,1,0
+U632,S5134,15-02-2026 21:18,exit,163,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U362,S4791,22-02-2026 05:08,payment_page_viewed,72,No,,No,erosion,,,High,0,0,0
+U826,S2302,18-02-2026 21:12,browse,81,No,,No,erosion,,,High,0,0,0
+U768,S1201,03-01-2026 08:55,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U675,S1612,28-01-2026 16:17,checkout_started,90,No,Something feels different now,No,erosion,,,High,1,0,1
+U711,S6807,30-01-2026 17:36,browse,71,No,,No,erosion,,,High,0,0,0
+U765,S5975,14-01-2026 18:22,help_center_visit,79,Yes,,No,erosion,,,High,0,1,0
+U340,S7855,07-02-2026 21:52,help_center_visit,50,No,Something feels different now,Yes,erosion,,,Medium,0,0,1
+U655,S7921,02-01-2026 04:31,checkout_started,156,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U124,S9096,12-02-2026 01:33,exit,35,No,,No,erosion,,,Medium,0,0,0
+U636,S3758,16-02-2026 11:36,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U121,S1806,16-01-2026 03:13,policy_view,35,Yes,I used to trust this more earlier,No,erosion,,,Medium,0,1,1
+U972,S6137,28-01-2026 17:38,payment_page_viewed,81,Yes,,No,erosion,,,High,0,1,0
+U437,S6828,08-02-2026 19:17,payment_page_viewed,62,Yes,,Yes,erosion,,,High,0,1,0
+U199,S6991,05-02-2026 16:59,checkout_started,13,No,,Yes,normal,,,Low,0,0,0
+U499,S1043,06-02-2026 03:16,payment_page_viewed,55,Yes,,Yes,erosion,,,Medium,0,1,0
+U742,S1720,16-01-2026 18:12,checkout_started,112,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U871,S8490,19-02-2026 05:43,exit,93,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U552,S4748,10-01-2026 17:50,browse,14,No,,Yes,normal,,,Low,0,0,0
+U829,S3700,02-01-2026 17:11,help_center_visit,108,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U362,S3401,01-01-2026 13:14,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U367,S5808,01-02-2026 23:22,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U103,S3398,31-01-2026 15:47,exit,142,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U944,S5527,23-01-2026 15:46,browse,7,No,,Yes,normal,,,Low,0,0,0
+U411,S2154,03-02-2026 15:02,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U726,S5126,15-02-2026 05:37,browse,6,No,,Yes,normal,,,Low,0,0,0
+U712,S6323,05-01-2026 11:49,browse,8,No,,Yes,normal,,,Low,0,0,0
+U925,S1723,27-01-2026 01:58,checkout_started,89,Yes,Will think before buying,No,erosion,,,High,1,1,1
+U278,S7138,08-02-2026 20:32,view_product,53,No,,Yes,erosion,,,Medium,0,0,0
+U478,S2815,14-01-2026 06:32,add_to_cart,15,No,Easy to use,Yes,normal,,,Low,0,0,0
+U248,S3401,14-02-2026 23:24,exit,152,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U295,S6898,19-02-2026 21:45,exit,64,No,I used to trust this more earlier,Yes,erosion,,,High,0,0,1
+U866,S6664,21-01-2026 13:23,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U596,S6795,01-01-2026 15:40,exit,85,Yes,,Yes,erosion,,,High,0,1,0
+U700,S2900,15-01-2026 18:58,exit,172,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U878,S7464,05-02-2026 08:40,exit,103,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U583,S4571,12-02-2026 02:54,exit,69,Yes,,Yes,erosion,,,High,0,1,0
+U614,S5102,18-02-2026 05:00,checkout_started,36,No,,No,erosion,,,Medium,1,0,0
+U598,S8189,01-02-2026 23:16,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U230,S6402,10-02-2026 00:38,add_to_cart,34,No,,No,erosion,,,Medium,0,0,0
+U355,S6654,11-01-2026 11:01,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U320,S9546,10-02-2026 23:20,view_product,62,No,,Yes,erosion,,,High,0,0,0
+U229,S2551,02-01-2026 10:44,browse,12,No,,Yes,normal,,,Low,0,0,0
+U248,S7347,05-02-2026 23:06,checkout_started,154,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U590,S7955,15-01-2026 18:56,checkout_started,78,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,1,1,1
+U703,S8974,14-02-2026 18:04,review_posted,78,Yes,,No,erosion,,,High,0,1,0
+U692,S7193,20-01-2026 02:23,help_center_visit,176,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U881,S6741,05-01-2026 13:48,policy_view,88,Yes,,No,erosion,,,High,0,1,0
+U201,S5898,24-01-2026 19:26,review_posted,79,No,Will think before buying,No,erosion,,,High,0,0,1
+U448,S9313,12-02-2026 15:09,browse,49,No,Not very confident about this,Yes,erosion,,,Medium,0,0,1
+U733,S4188,09-01-2026 09:32,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U582,S1583,20-01-2026 10:22,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U947,S6048,14-02-2026 12:36,policy_view,76,No,Something feels different now,Yes,erosion,,,High,0,0,1
+U342,S4621,19-01-2026 19:25,browse,9,No,,Yes,normal,,,Low,0,0,0
+U693,S5774,04-01-2026 20:06,view_product,51,Yes,,Yes,erosion,,,Medium,0,1,0
+U830,S6591,04-02-2026 22:39,checkout_started,12,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U943,S6556,06-02-2026 07:48,view_product,85,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,0,1,1
+U415,S8796,02-02-2026 18:55,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U941,S5519,11-01-2026 10:44,exit,171,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U930,S1817,01-01-2026 08:02,checkout_started,173,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U760,S5917,17-02-2026 00:20,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U634,S8278,04-01-2026 16:31,checkout_started,167,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U982,S7922,18-01-2026 07:57,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U714,S3894,19-01-2026 16:32,browse,7,No,,Yes,normal,,,Low,0,0,0
+U677,S6005,16-01-2026 05:44,checkout_started,126,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U512,S1413,14-02-2026 14:47,policy_view,59,Yes,,Yes,erosion,,,Medium,0,1,0
+U243,S5821,14-01-2026 09:15,exit,96,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U358,S8730,21-02-2026 16:24,add_to_cart,84,Yes,I used to trust this more earlier,No,erosion,,,High,0,1,1
+U909,S5249,24-01-2026 13:31,browse,62,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U335,S7001,24-01-2026 04:57,browse,13,No,,Yes,normal,,,Low,0,0,0
+U708,S5867,21-02-2026 13:57,checkout_started,10,No,Easy to use,Yes,normal,,,Low,0,0,0
+U290,S6777,07-02-2026 01:59,help_center_visit,73,Yes,,No,erosion,,,High,0,1,0
+U948,S7164,10-02-2026 10:46,browse,62,Yes,,No,erosion,,,High,0,1,0
+U475,S9517,18-01-2026 23:51,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U742,S4221,24-01-2026 12:17,browse,7,No,,Yes,normal,,,Low,0,0,0
+U643,S8320,26-01-2026 23:20,exit,85,No,Something feels different now,No,erosion,,,High,0,0,1
+U683,S2633,22-01-2026 03:34,help_center_visit,64,No,Not very confident about this,No,erosion,,,High,0,0,1
+U575,S8629,05-02-2026 00:22,browse,62,No,Not very confident about this,No,erosion,,,High,0,0,1
+U255,S9277,11-02-2026 02:46,payment_page_viewed,65,No,Not very confident about this,Yes,erosion,,,High,0,0,1
+U493,S1846,05-01-2026 23:40,exit,105,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U932,S9744,22-01-2026 11:31,checkout_started,148,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U567,S7060,08-01-2026 08:50,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U414,S9334,03-01-2026 16:40,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U935,S4251,04-01-2026 23:42,add_to_cart,72,Yes,Not very confident about this,Yes,erosion,,,High,0,1,1
+U701,S4117,21-02-2026 07:19,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U262,S1038,19-02-2026 11:19,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U135,S5827,22-02-2026 01:12,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U444,S7783,16-02-2026 14:56,browse,65,No,,No,erosion,,,High,0,0,0
+U347,S7092,08-01-2026 23:02,exit,72,Yes,,No,erosion,,,High,0,1,0
+U712,S5623,12-01-2026 17:28,browse,10,No,,Yes,normal,,,Low,0,0,0
+U970,S5974,20-02-2026 05:21,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U476,S7607,24-01-2026 02:19,exit,86,Yes,,Yes,erosion,,,High,0,1,0
+U619,S8403,02-01-2026 00:08,view_product,73,Yes,,Yes,erosion,,,High,0,1,0
+U486,S1771,03-02-2026 09:40,add_to_cart,75,Yes,,No,erosion,,,High,0,1,0
+U532,S2064,19-02-2026 15:47,help_center_visit,166,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U377,S2683,13-02-2026 20:45,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U950,S9213,06-02-2026 08:38,add_to_cart,15,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U299,S5920,05-01-2026 11:16,browse,14,No,Easy to use,Yes,normal,,,Low,0,0,0
+U511,S6521,01-02-2026 19:19,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U938,S3538,05-01-2026 21:57,help_center_visit,165,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U960,S2907,01-02-2026 07:30,help_center_visit,99,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U587,S2812,08-01-2026 17:13,checkout_started,80,No,Something feels different now,Yes,erosion,,,High,0,0,1
+U779,S8708,10-01-2026 02:44,browse,5,No,,Yes,normal,,,Low,0,0,0
+U165,S6223,02-01-2026 08:32,help_center_visit,120,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U669,S3835,02-02-2026 05:27,exit,166,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U458,S6513,19-02-2026 17:02,policy_view,54,No,,No,erosion,,,Medium,0,0,0
+U248,S9575,18-01-2026 23:38,review_posted,32,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,1,1
+U538,S6406,17-01-2026 16:34,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U817,S5095,20-02-2026 12:35,browse,7,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U789,S3109,03-01-2026 08:17,checkout_started,109,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U741,S6809,19-02-2026 21:37,browse,81,No,,No,erosion,,,High,0,0,0
+U100,S3453,07-02-2026 16:04,exit,68,No,Not very confident about this,No,erosion,,,High,0,0,1
+U843,S6564,14-02-2026 20:55,add_to_cart,5,No,,Yes,normal,,,Low,0,0,0
+U270,S7545,25-01-2026 07:58,browse,11,No,,Yes,normal,,,Low,0,0,0
+U365,S5615,23-01-2026 01:48,browse,11,No,,Yes,normal,,,Low,0,0,0
+U182,S5233,10-01-2026 08:01,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U980,S6743,11-01-2026 20:22,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U873,S1248,26-01-2026 21:33,checkout_started,119,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U385,S8114,22-02-2026 20:14,exit,147,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U554,S4869,08-01-2026 15:54,exit,106,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U985,S1591,13-01-2026 17:24,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U326,S5243,06-02-2026 23:12,browse,7,No,,Yes,normal,,,Low,0,0,0
+U208,S7427,13-02-2026 18:44,exit,81,No,,No,erosion,,,High,0,0,0
+U330,S8662,14-02-2026 12:29,payment_page_viewed,37,Yes,,Yes,erosion,,,Medium,0,1,0
+U673,S1874,21-02-2026 00:15,checkout_started,14,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U151,S2375,21-01-2026 23:19,exit,45,No,I used to trust this more earlier,Yes,erosion,,,Medium,0,0,1
+U172,S1805,30-01-2026 15:47,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U416,S2076,17-02-2026 02:07,browse,42,Yes,,Yes,erosion,,,Medium,0,1,0
+U804,S1883,20-02-2026 02:59,help_center_visit,85,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U276,S9892,10-02-2026 06:51,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U249,S8043,04-01-2026 12:02,review_posted,68,Yes,,No,erosion,,,High,0,1,0
+U899,S4031,25-01-2026 22:18,exit,63,No,,No,erosion,,,High,0,0,0
+U901,S6332,08-02-2026 08:25,help_center_visit,179,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U910,S4434,10-01-2026 13:05,browse,6,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U818,S9786,06-02-2026 21:04,browse,6,No,,Yes,normal,,,Low,0,0,0
+U254,S4007,02-02-2026 11:26,payment_page_viewed,42,No,,No,erosion,,,Medium,0,0,0
+U567,S4497,18-01-2026 09:04,browse,81,No,,No,erosion,,,High,0,0,0
+U134,S1359,05-02-2026 14:10,help_center_visit,152,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U460,S7641,09-02-2026 03:06,add_to_cart,15,No,Easy to use,Yes,normal,,,Low,0,0,0
+U500,S5581,05-02-2026 21:33,payment_page_viewed,49,No,,Yes,erosion,,,Medium,0,0,0
+U243,S8804,03-02-2026 10:46,view_product,9,No,,Yes,normal,,,Low,0,0,0
+U323,S1980,08-01-2026 03:08,exit,128,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U853,S1002,29-01-2026 08:53,help_center_visit,78,No,,Yes,erosion,,,High,0,0,0
+U772,S4340,11-02-2026 05:40,policy_view,55,No,,No,erosion,,,Medium,0,0,0
+U863,S6819,13-01-2026 05:22,review_posted,36,No,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,0,1
+U264,S7640,17-02-2026 23:55,help_center_visit,160,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U186,S7688,29-01-2026 13:48,checkout_started,127,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U113,S9877,26-01-2026 16:18,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U955,S1825,23-02-2026 02:57,help_center_visit,68,Yes,Something feels different now,Yes,erosion,,,High,0,1,1
+U831,S8988,08-01-2026 05:44,add_to_cart,86,Yes,,Yes,erosion,,,High,0,1,0
+U580,S9922,23-01-2026 07:39,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U301,S7514,04-02-2026 01:43,add_to_cart,5,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U953,S4230,04-02-2026 22:57,payment_page_viewed,70,Yes,,No,erosion,,,High,0,1,0
+U375,S6362,02-02-2026 18:45,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U412,S9997,29-01-2026 02:53,checkout_started,85,No,,No,erosion,,,High,1,0,0
+U584,S2299,28-01-2026 21:58,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U962,S3179,29-01-2026 02:03,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U370,S1064,17-01-2026 20:49,checkout_started,9,No,,Yes,normal,,,Low,0,0,0
+U708,S7077,13-02-2026 09:21,view_product,60,Yes,Something feels different now,No,erosion,,,High,0,1,1
+U525,S5097,11-01-2026 20:44,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U658,S8364,09-01-2026 17:11,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U175,S8851,08-02-2026 16:10,add_to_cart,65,Yes,,No,erosion,,,High,0,1,0
+U565,S5758,30-01-2026 05:34,add_to_cart,5,No,,Yes,normal,,,Low,0,0,0
+U399,S5425,15-02-2026 20:23,browse,12,No,,Yes,normal,,,Low,0,0,0
+U429,S5028,03-01-2026 08:46,help_center_visit,159,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U153,S4273,21-02-2026 09:08,browse,10,No,,Yes,normal,,,Low,0,0,0
+U939,S3887,08-01-2026 11:01,policy_view,53,No,,Yes,erosion,,,Medium,0,0,0
+U441,S6561,26-01-2026 05:26,browse,8,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U632,S2882,30-01-2026 07:16,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U945,S7136,19-02-2026 08:16,exit,115,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U162,S2841,14-02-2026 00:14,add_to_cart,5,No,,Yes,normal,,,Low,0,0,0
+U343,S5886,06-01-2026 16:30,exit,67,Yes,,Yes,erosion,,,High,0,1,0
+U337,S5334,13-01-2026 20:16,review_posted,63,No,,Yes,erosion,,,High,0,0,0
+U272,S3768,29-01-2026 10:46,checkout_started,13,No,,Yes,normal,,,Low,0,0,0
+U971,S9283,16-01-2026 20:36,exit,70,No,,Yes,erosion,,,High,0,0,0
+U474,S8372,21-01-2026 08:35,checkout_started,34,No,Not very confident about this,Yes,erosion,,,Medium,0,0,1
+U954,S4055,07-01-2026 12:03,add_to_cart,10,No,Easy to use,Yes,normal,,,Low,0,0,0
+U816,S5484,08-02-2026 13:12,checkout_started,148,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U104,S6185,31-01-2026 14:29,checkout_started,6,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U520,S1507,13-02-2026 00:13,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U745,S8305,08-01-2026 22:01,policy_view,75,No,,Yes,erosion,,,High,0,0,0
+U768,S3388,16-02-2026 07:43,add_to_cart,12,No,Easy to use,Yes,normal,,,Low,0,0,0
+U696,S2107,04-02-2026 20:09,add_to_cart,9,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U548,S1606,31-01-2026 08:33,exit,73,No,,No,erosion,,,High,0,0,0
+U646,S5274,19-01-2026 18:17,checkout_started,30,No,Not very confident about this,Yes,erosion,,,Medium,0,0,1
+U224,S6719,07-01-2026 15:32,add_to_cart,9,No,,Yes,normal,,,Low,0,0,0
+U989,S9543,20-02-2026 06:37,checkout_started,85,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U190,S5631,08-02-2026 11:47,help_center_visit,145,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U377,S9721,04-02-2026 12:09,browse,82,No,,Yes,erosion,,,High,0,0,0
+U184,S5949,01-01-2026 11:41,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U601,S3020,14-01-2026 13:54,add_to_cart,72,Yes,,Yes,erosion,,,High,0,1,0
+U721,S9661,23-02-2026 08:58,browse,13,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U441,S9048,11-02-2026 13:04,browse,6,No,,Yes,normal,,,Low,0,0,0
+U662,S5119,05-02-2026 19:43,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U574,S9331,20-02-2026 06:23,checkout_started,30,Yes,,No,erosion,,,Medium,1,1,0
+U297,S2681,18-02-2026 14:33,help_center_visit,168,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U636,S3422,21-01-2026 14:03,view_product,7,No,,Yes,normal,,,Low,0,0,0
+U410,S4920,02-01-2026 01:26,browse,40,No,Not very confident about this,No,erosion,,,Medium,0,0,1
+U764,S4818,19-02-2026 09:03,exit,89,Yes,Something feels different now,Yes,erosion,,,High,0,1,1
+U339,S4015,13-02-2026 01:35,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U329,S4005,10-02-2026 22:05,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U494,S9317,20-01-2026 20:12,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U996,S9957,01-01-2026 22:33,review_posted,80,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U563,S8487,07-02-2026 18:15,add_to_cart,9,No,,Yes,normal,,,Low,0,0,0
+U763,S8167,20-01-2026 02:55,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U575,S4188,17-01-2026 20:13,help_center_visit,99,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U651,S2264,17-01-2026 20:19,help_center_visit,151,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U488,S2085,02-01-2026 17:48,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U665,S9900,12-01-2026 03:53,help_center_visit,80,Yes,Something feels different now,Yes,erosion,,,High,0,1,1
+U931,S8198,07-02-2026 10:04,review_posted,54,Yes,I used to trust this more earlier,Yes,erosion,,,Medium,0,1,1
+U886,S6048,10-01-2026 18:23,policy_view,82,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,0,1,1
+U699,S6233,07-02-2026 04:29,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U871,S5962,20-01-2026 21:40,checkout_started,137,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U499,S7352,03-01-2026 17:07,help_center_visit,38,No,,No,erosion,,,Medium,0,0,0
+U858,S2460,15-01-2026 09:54,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U902,S9734,24-01-2026 09:04,view_product,67,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U218,S2904,19-02-2026 21:13,exit,166,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U878,S1137,12-01-2026 22:26,exit,106,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U520,S8818,17-02-2026 06:39,payment_page_viewed,52,No,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,0,1
+U106,S7072,31-01-2026 09:30,browse,74,Yes,,No,erosion,,,High,0,1,0
+U982,S4654,08-01-2026 23:38,exit,67,No,Something feels different now,No,erosion,,,High,0,0,1
+U122,S4016,26-01-2026 20:16,help_center_visit,62,Yes,Will think before buying,No,erosion,,,High,0,1,1
+U655,S2476,01-02-2026 07:16,add_to_cart,64,No,,Yes,erosion,,,High,0,0,0
+U279,S8761,03-01-2026 02:12,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U739,S3754,24-01-2026 04:43,checkout_started,8,No,,Yes,normal,,,Low,0,0,0
+U304,S8095,11-01-2026 05:22,checkout_started,127,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U711,S1099,08-02-2026 15:45,checkout_started,160,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U351,S7477,06-01-2026 01:37,browse,10,No,,Yes,normal,,,Low,0,0,0
+U768,S3399,20-01-2026 14:43,exit,123,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U801,S4645,21-01-2026 18:40,exit,161,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U277,S5450,06-01-2026 01:18,add_to_cart,84,Yes,Not very confident about this,No,erosion,,,High,0,1,1
+U641,S3785,09-02-2026 00:28,checkout_started,122,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U652,S4008,10-02-2026 00:22,checkout_started,177,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U373,S4890,20-01-2026 08:47,view_product,12,No,,Yes,normal,,,Low,0,0,0
+U243,S8339,05-02-2026 23:32,checkout_started,12,No,Easy to use,Yes,normal,,,Low,0,0,0
+U213,S3564,06-01-2026 23:41,browse,10,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U427,S7652,14-02-2026 10:13,exit,129,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U867,S8349,09-01-2026 18:00,exit,117,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U871,S2393,01-02-2026 19:41,checkout_started,135,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U424,S7044,21-02-2026 23:34,exit,88,Yes,I used to trust this more earlier,Yes,erosion,,,High,0,1,1
+U246,S8576,11-01-2026 14:59,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U462,S1936,11-02-2026 14:54,browse,10,No,,Yes,normal,,,Low,0,0,0
+U653,S8662,19-02-2026 17:25,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U811,S6797,02-02-2026 03:46,browse,6,No,,Yes,normal,,,Low,0,0,0
+U708,S1495,11-02-2026 08:52,exit,153,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U332,S9539,04-01-2026 16:24,checkout_started,89,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U109,S3862,20-01-2026 09:14,help_center_visit,152,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U973,S4434,08-02-2026 23:56,checkout_started,162,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U761,S2677,19-02-2026 21:50,browse,89,No,,No,erosion,,,High,0,0,0
+U552,S1519,04-01-2026 11:10,payment_page_viewed,54,Yes,,Yes,erosion,,,Medium,0,1,0
+U734,S1274,20-01-2026 11:48,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U416,S6783,17-01-2026 18:53,checkout_started,60,No,,No,erosion,,,High,1,0,0
+U112,S8469,01-01-2026 06:17,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U478,S3316,10-02-2026 01:09,browse,11,No,,Yes,normal,,,Low,0,0,0
+U388,S9468,31-01-2026 10:03,review_posted,81,Yes,,No,erosion,,,High,0,1,0
+U563,S4768,01-01-2026 06:48,browse,10,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U503,S4479,11-02-2026 03:22,help_center_visit,137,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U160,S4450,14-01-2026 04:00,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U544,S2496,23-02-2026 02:16,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U330,S6542,29-01-2026 13:03,browse,5,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U506,S3405,21-02-2026 18:12,payment_page_viewed,51,No,,Yes,erosion,,,Medium,0,0,0
+U706,S2766,17-01-2026 08:09,checkout_started,91,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U341,S7790,26-01-2026 13:09,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U694,S8803,04-02-2026 10:57,view_product,8,No,Easy to use,Yes,normal,,,Low,0,0,0
+U658,S4345,15-01-2026 05:20,checkout_started,65,Yes,,Yes,erosion,,,High,0,1,0
+U364,S2891,03-01-2026 08:44,view_product,9,No,,Yes,normal,,,Low,0,0,0
+U112,S3371,10-01-2026 09:32,add_to_cart,52,No,,No,erosion,,,Medium,0,0,0
+U950,S2243,02-01-2026 22:47,checkout_started,104,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U746,S5312,20-02-2026 01:08,help_center_visit,76,Yes,,Yes,erosion,,,High,0,1,0
+U147,S2330,16-02-2026 03:25,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U129,S5108,08-02-2026 05:53,checkout_started,9,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U109,S9576,18-01-2026 14:20,help_center_visit,85,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U188,S1117,18-01-2026 15:13,checkout_started,7,No,Easy to use,Yes,normal,,,Low,0,0,0
+U619,S6075,13-02-2026 01:30,exit,67,No,Will think before buying,No,erosion,,,High,0,0,1
+U875,S9413,16-01-2026 08:08,help_center_visit,143,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U183,S6154,13-02-2026 05:09,browse,89,No,Seems okay but I'm not fully sure,No,erosion,,,High,0,0,1
+U225,S9430,30-01-2026 14:33,browse,36,Yes,,Yes,erosion,,,Medium,0,1,0
+U803,S9585,31-01-2026 17:34,payment_page_viewed,41,Yes,Not very confident about this,No,erosion,,,Medium,0,1,1
+U468,S7122,07-01-2026 18:07,add_to_cart,40,Yes,,No,erosion,,,Medium,0,1,0
+U100,S7828,20-02-2026 02:09,exit,116,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U567,S5393,16-02-2026 18:36,add_to_cart,46,Yes,,No,erosion,,,Medium,0,1,0
+U864,S9136,04-01-2026 05:33,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U161,S1913,05-02-2026 22:48,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U308,S5552,24-01-2026 02:30,view_product,73,No,I used to trust this more earlier,No,erosion,,,High,0,0,1
+U627,S3441,27-01-2026 15:05,browse,14,No,Easy to use,Yes,normal,,,Low,0,0,0
+U318,S4242,02-02-2026 09:33,browse,15,No,,Yes,normal,,,Low,0,0,0
+U631,S8124,07-01-2026 08:37,exit,72,Yes,,Yes,erosion,,,High,0,1,0
+U669,S9897,26-01-2026 08:08,view_product,75,No,,Yes,erosion,,,High,0,0,0
+U734,S4021,04-01-2026 05:11,browse,5,No,,Yes,normal,,,Low,0,0,0
+U203,S3012,28-01-2026 17:22,help_center_visit,34,No,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,0,1
+U953,S1196,14-01-2026 03:18,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U671,S4579,21-02-2026 00:54,browse,30,No,I used to trust this more earlier,Yes,erosion,,,Medium,0,0,1
+U560,S6108,01-02-2026 00:55,help_center_visit,140,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U645,S9010,04-02-2026 04:20,policy_view,63,Yes,,Yes,erosion,,,High,0,1,0
+U126,S3689,21-01-2026 21:02,browse,68,Yes,Something feels different now,No,erosion,,,High,0,1,1
+U971,S9355,29-01-2026 03:31,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U614,S8080,11-01-2026 13:48,checkout_started,50,No,Will think before buying,No,erosion,,,Medium,1,0,1
+U731,S1679,20-01-2026 22:40,add_to_cart,62,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U548,S6265,15-02-2026 22:46,checkout_started,8,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U694,S4553,03-02-2026 22:04,browse,48,Yes,,No,erosion,,,Medium,0,1,0
+U443,S2398,04-02-2026 01:40,help_center_visit,98,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U995,S3350,11-02-2026 21:37,view_product,43,No,,No,erosion,,,Medium,0,0,0
+U697,S5474,11-02-2026 15:18,add_to_cart,65,No,,No,erosion,,,High,0,0,0
+U158,S9403,04-02-2026 03:45,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U691,S1984,29-01-2026 12:51,help_center_visit,178,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U824,S6790,16-02-2026 19:51,view_product,56,No,,No,erosion,,,Medium,0,0,0
+U477,S6489,22-02-2026 16:43,exit,132,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U703,S1359,06-01-2026 15:54,exit,93,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U445,S2146,15-01-2026 14:52,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U319,S1053,15-01-2026 08:08,checkout_started,46,No,,No,erosion,,,Medium,1,0,0
+U259,S1140,23-01-2026 01:10,add_to_cart,65,No,Not very confident about this,No,erosion,,,High,0,0,1
+U245,S5098,05-01-2026 06:15,exit,144,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U848,S1149,17-01-2026 06:38,help_center_visit,141,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U259,S2284,21-02-2026 00:03,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U435,S5388,10-02-2026 02:13,view_product,30,No,,No,erosion,,,Medium,0,0,0
+U529,S4008,05-01-2026 01:01,exit,147,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U759,S1800,27-01-2026 08:56,exit,90,No,,No,erosion,,,High,0,0,0
+U926,S3120,09-01-2026 00:34,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U402,S4551,05-01-2026 06:09,exit,82,Yes,,No,erosion,,,High,0,1,0
+U498,S4529,26-01-2026 07:41,help_center_visit,133,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U102,S5109,03-02-2026 09:48,checkout_started,8,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U422,S1732,18-02-2026 05:52,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U246,S9710,07-01-2026 11:25,checkout_started,8,No,,Yes,normal,,,Low,0,0,0
+U632,S9514,24-01-2026 04:18,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U312,S5718,14-01-2026 18:07,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U871,S4355,15-01-2026 01:10,policy_view,83,Yes,,No,erosion,,,High,0,1,0
+U876,S1132,17-02-2026 01:01,browse,9,No,,Yes,normal,,,Low,0,0,0
+U237,S9393,23-01-2026 13:25,checkout_started,59,Yes,,No,erosion,,,Medium,1,1,0
+U888,S2993,23-01-2026 06:03,add_to_cart,12,No,Easy to use,Yes,normal,,,Low,0,0,0
+U375,S5202,20-01-2026 11:33,checkout_started,138,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U105,S4954,08-02-2026 19:39,policy_view,89,No,Something feels different now,No,erosion,,,High,0,0,1
+U590,S3305,22-01-2026 16:34,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U450,S1265,20-01-2026 02:58,checkout_started,84,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U901,S6158,24-01-2026 19:10,checkout_started,171,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U233,S5310,09-01-2026 22:37,exit,150,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U163,S7709,06-02-2026 18:10,help_center_visit,159,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U308,S8322,17-02-2026 16:10,payment_page_viewed,58,Yes,I used to trust this more earlier,No,erosion,,,Medium,0,1,1
+U797,S1175,19-01-2026 21:51,help_center_visit,73,No,,No,erosion,,,High,0,0,0
+U254,S5263,27-01-2026 22:44,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U190,S6929,10-02-2026 10:49,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U674,S9637,24-01-2026 11:52,payment_page_viewed,61,Yes,Not very confident about this,No,erosion,,,High,0,1,1
+U845,S7454,30-01-2026 21:18,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U283,S5879,20-01-2026 01:52,browse,10,No,,Yes,normal,,,Low,0,0,0
+U997,S6875,08-01-2026 16:45,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U957,S5433,16-01-2026 13:27,exit,64,Yes,,No,erosion,,,High,0,1,0
+U515,S3735,25-01-2026 08:52,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U771,S3941,11-02-2026 02:25,view_product,32,Yes,,Yes,erosion,,,Medium,0,1,0
+U702,S5024,15-01-2026 17:17,review_posted,65,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U898,S6761,04-01-2026 08:31,review_posted,35,Yes,,Yes,erosion,,,Medium,0,1,0
+U356,S3553,16-01-2026 03:21,policy_view,85,Yes,,No,erosion,,,High,0,1,0
+U410,S4383,17-01-2026 09:57,exit,37,Yes,,No,erosion,,,Medium,0,1,0
+U334,S6743,22-01-2026 16:37,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U564,S4280,25-01-2026 23:26,browse,77,No,I used to trust this more earlier,Yes,erosion,,,High,0,0,1
+U992,S7953,23-02-2026 09:03,browse,8,No,,Yes,normal,,,Low,0,0,0
+U441,S1631,22-02-2026 11:32,add_to_cart,42,No,,Yes,erosion,,,Medium,0,0,0
+U748,S1532,19-02-2026 05:23,add_to_cart,12,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U894,S5738,11-02-2026 04:34,help_center_visit,63,No,,No,erosion,,,High,0,0,0
+U291,S7449,24-01-2026 11:45,help_center_visit,146,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U254,S1565,03-02-2026 00:26,payment_page_viewed,87,No,Something feels different now,Yes,erosion,,,High,0,0,1
+U995,S2149,13-01-2026 23:47,exit,93,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U461,S7621,16-02-2026 07:01,add_to_cart,60,Yes,,Yes,erosion,,,High,0,1,0
+U878,S3765,23-01-2026 02:00,add_to_cart,13,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U473,S2999,27-01-2026 09:36,help_center_visit,176,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U879,S4576,20-01-2026 19:59,help_center_visit,157,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U810,S3590,28-01-2026 03:31,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U912,S5662,22-02-2026 17:55,help_center_visit,60,No,,Yes,erosion,,,High,0,0,0
+U974,S9407,17-01-2026 14:59,view_product,47,Yes,Something feels different now,Yes,erosion,,,Medium,0,1,1
+U317,S2530,01-02-2026 14:23,checkout_started,101,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U168,S3068,18-01-2026 03:05,browse,77,Yes,I used to trust this more earlier,No,erosion,,,High,0,1,1
+U416,S6852,17-01-2026 10:04,view_product,54,Yes,,Yes,erosion,,,Medium,0,1,0
+U756,S5582,04-02-2026 18:00,add_to_cart,7,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U895,S4199,07-01-2026 20:57,browse,5,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U313,S3804,20-01-2026 00:51,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U919,S5491,27-01-2026 23:27,checkout_started,179,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U100,S2987,14-01-2026 03:13,help_center_visit,95,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U689,S2491,07-02-2026 06:43,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U615,S5813,14-01-2026 00:48,policy_view,90,No,Something feels different now,Yes,erosion,,,High,0,0,1
+U449,S6139,08-01-2026 09:11,browse,40,Yes,,No,erosion,,,Medium,0,1,0
+U318,S9507,22-01-2026 12:26,exit,66,Yes,I used to trust this more earlier,No,erosion,,,High,0,1,1
+U662,S8304,23-02-2026 04:25,browse,8,No,,Yes,normal,,,Low,0,0,0
+U431,S6905,07-02-2026 23:13,help_center_visit,143,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U222,S1828,02-01-2026 18:33,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U195,S3375,02-02-2026 05:43,exit,131,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U111,S2128,02-02-2026 12:53,checkout_started,133,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U475,S5267,15-02-2026 01:58,checkout_started,8,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U252,S3543,18-01-2026 19:22,add_to_cart,15,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U204,S8634,17-01-2026 03:40,browse,68,Yes,,No,erosion,,,High,0,1,0
+U697,S2506,08-02-2026 17:50,add_to_cart,34,Yes,,Yes,erosion,,,Medium,0,1,0
+U723,S9417,09-01-2026 08:59,payment_page_viewed,81,Yes,,Yes,erosion,,,High,0,1,0
+U243,S4899,11-01-2026 17:51,view_product,42,Yes,,Yes,erosion,,,Medium,0,1,0
+U867,S5675,16-01-2026 05:56,browse,75,No,I used to trust this more earlier,No,erosion,,,High,0,0,1
+U461,S7426,14-01-2026 19:54,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U776,S5368,07-01-2026 01:07,checkout_started,14,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U881,S1894,28-01-2026 07:21,add_to_cart,84,Yes,,Yes,erosion,,,High,0,1,0
+U809,S1472,18-02-2026 13:53,checkout_started,134,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U910,S8783,22-02-2026 00:25,payment_page_viewed,43,No,Something feels different now,Yes,erosion,,,Medium,0,0,1
+U589,S9707,08-02-2026 11:28,view_product,13,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U500,S1755,14-02-2026 23:54,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U603,S8578,08-01-2026 07:30,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U843,S1665,15-01-2026 08:25,browse,10,No,,Yes,normal,,,Low,0,0,0
+U620,S6131,02-01-2026 13:22,checkout_started,13,No,,Yes,normal,,,Low,0,0,0
+U715,S9724,08-02-2026 21:57,checkout_started,44,No,Something feels different now,Yes,erosion,,,Medium,0,0,1
+U616,S1284,06-01-2026 07:30,browse,57,Yes,I used to trust this more earlier,No,erosion,,,Medium,0,1,1
+U290,S5514,15-02-2026 06:13,policy_view,88,Yes,,No,erosion,,,High,0,1,0
+U764,S7479,11-02-2026 01:06,checkout_started,6,No,,Yes,normal,,,Low,0,0,0
+U640,S5449,19-01-2026 09:06,help_center_visit,72,No,,No,erosion,,,High,0,0,0
+U523,S3164,27-01-2026 20:54,checkout_started,149,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U479,S9992,13-02-2026 17:17,add_to_cart,10,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U283,S1531,06-02-2026 00:24,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U819,S6422,11-01-2026 00:55,browse,39,No,,No,erosion,,,Medium,0,0,0
+U235,S3660,28-01-2026 17:11,exit,115,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U516,S6577,01-02-2026 07:45,exit,88,Yes,,No,erosion,,,High,0,1,0
+U339,S4838,22-01-2026 16:32,view_product,55,Yes,,Yes,erosion,,,Medium,0,1,0
+U435,S2661,19-01-2026 16:50,browse,14,No,,Yes,normal,,,Low,0,0,0
+U159,S6785,06-02-2026 13:06,exit,149,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U637,S9274,11-01-2026 23:29,checkout_started,33,No,Not very confident about this,No,erosion,,,Medium,1,0,1
+U178,S5867,08-02-2026 01:17,add_to_cart,37,Yes,,Yes,erosion,,,Medium,0,1,0
+U914,S9524,19-02-2026 02:27,browse,11,No,,Yes,normal,,,Low,0,0,0
+U158,S2664,29-01-2026 10:13,help_center_visit,129,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U502,S7746,25-01-2026 02:56,exit,89,Yes,,No,erosion,,,High,0,1,0
+U398,S9104,03-01-2026 21:15,view_product,69,No,,Yes,erosion,,,High,0,0,0
+U606,S4337,01-02-2026 15:18,checkout_started,151,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U672,S3409,31-01-2026 16:39,browse,7,No,,Yes,normal,,,Low,0,0,0
+U326,S1506,13-01-2026 13:40,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U897,S2954,11-02-2026 00:37,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U263,S9269,04-02-2026 12:46,policy_view,84,Yes,,No,erosion,,,High,0,1,0
+U490,S1263,16-01-2026 10:52,checkout_started,48,No,Something feels different now,Yes,erosion,,,Medium,0,0,1
+U411,S9150,02-01-2026 02:39,view_product,10,No,Easy to use,Yes,normal,,,Low,0,0,0
+U996,S9474,23-01-2026 18:38,browse,13,No,,Yes,normal,,,Low,0,0,0
+U858,S1614,18-02-2026 02:56,exit,113,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U689,S8787,15-02-2026 11:37,browse,44,Yes,,Yes,erosion,,,Medium,0,1,0
+U941,S7378,22-01-2026 09:27,help_center_visit,43,No,,No,erosion,,,Medium,0,0,0
+U170,S6129,11-01-2026 08:49,help_center_visit,172,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U154,S7042,21-01-2026 09:09,browse,8,No,,Yes,normal,,,Low,0,0,0
+U835,S7393,06-01-2026 03:00,checkout_started,59,No,Something feels different now,No,erosion,,,Medium,1,0,1
+U997,S4818,14-02-2026 17:29,checkout_started,52,No,I used to trust this more earlier,Yes,erosion,,,Medium,0,0,1
+U508,S7632,31-01-2026 22:10,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U983,S3994,05-01-2026 05:16,help_center_visit,127,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U443,S7780,06-01-2026 21:59,add_to_cart,72,Yes,,No,erosion,,,High,0,1,0
+U598,S3735,12-01-2026 14:05,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U532,S4896,18-01-2026 12:24,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U527,S9207,01-02-2026 10:22,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U889,S3327,04-02-2026 10:42,add_to_cart,10,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U366,S8960,07-02-2026 10:59,view_product,59,Yes,,Yes,erosion,,,Medium,0,1,0
+U939,S1123,19-02-2026 20:44,browse,37,No,Something feels different now,Yes,erosion,,,Medium,0,0,1
+U391,S1716,12-01-2026 19:52,review_posted,74,Yes,,Yes,erosion,,,High,0,1,0
+U880,S7842,10-01-2026 10:05,checkout_started,9,No,Easy to use,Yes,normal,,,Low,0,0,0
+U694,S9925,19-01-2026 11:16,exit,95,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U590,S3054,07-02-2026 02:19,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U892,S2505,15-01-2026 22:10,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U570,S1425,19-02-2026 14:46,browse,51,No,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,0,1
+U253,S6920,28-01-2026 02:08,browse,10,No,,Yes,normal,,,Low,0,0,0
+U306,S9233,22-02-2026 19:11,help_center_visit,40,Yes,,Yes,erosion,,,Medium,0,1,0
+U439,S3017,12-02-2026 16:36,checkout_started,33,Yes,Not very confident about this,Yes,erosion,,,Medium,0,1,1
+U420,S3685,17-01-2026 22:35,checkout_started,13,No,,Yes,normal,,,Low,0,0,0
+U834,S4375,16-01-2026 05:21,view_product,9,No,,Yes,normal,,,Low,0,0,0
+U152,S9947,17-01-2026 18:42,add_to_cart,42,No,Something feels different now,No,erosion,,,Medium,0,0,1
+U970,S7076,18-01-2026 15:08,view_product,43,No,,Yes,erosion,,,Medium,0,0,0
+U751,S6634,16-02-2026 06:41,browse,5,No,,Yes,normal,,,Low,0,0,0
+U814,S6579,23-02-2026 11:48,checkout_started,10,No,,Yes,normal,,,Low,0,0,0
+U844,S1261,14-01-2026 22:53,view_product,36,No,Will think before buying,No,erosion,,,Medium,0,0,1
+U637,S1757,27-01-2026 00:03,view_product,12,No,,Yes,normal,,,Low,0,0,0
+U481,S7383,21-01-2026 20:44,payment_page_viewed,83,No,,Yes,erosion,,,High,0,0,0
+U528,S3899,21-01-2026 03:07,browse,6,No,Easy to use,Yes,normal,,,Low,0,0,0
+U847,S5471,08-02-2026 16:08,help_center_visit,169,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U508,S3478,11-01-2026 23:06,exit,72,Yes,,No,erosion,,,High,0,1,0
+U352,S9204,01-01-2026 11:40,view_product,79,Yes,,Yes,erosion,,,High,0,1,0
+U855,S7256,01-01-2026 20:32,checkout_started,105,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U232,S5414,08-01-2026 19:33,view_product,67,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U205,S3567,15-01-2026 23:26,browse,7,No,,Yes,normal,,,Low,0,0,0
+U694,S9647,31-01-2026 15:54,review_posted,49,Yes,,Yes,erosion,,,Medium,0,1,0
+U659,S4618,20-01-2026 09:09,exit,171,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U680,S5722,12-02-2026 19:27,browse,8,No,,Yes,normal,,,Low,0,0,0
+U558,S1327,16-01-2026 02:20,browse,9,No,,Yes,normal,,,Low,0,0,0
+U917,S1484,26-01-2026 09:51,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U330,S7738,13-01-2026 10:09,browse,8,No,,Yes,normal,,,Low,0,0,0
+U725,S7417,15-01-2026 05:42,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U924,S1184,23-01-2026 06:46,review_posted,80,Yes,Not very confident about this,Yes,erosion,,,High,0,1,1
+U442,S1777,15-02-2026 15:34,browse,7,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U673,S8460,29-01-2026 07:04,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U398,S5303,01-02-2026 07:34,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U696,S9142,16-01-2026 15:14,browse,9,No,,Yes,normal,,,Low,0,0,0
+U596,S1020,02-02-2026 00:49,policy_view,66,Yes,Not very confident about this,No,erosion,,,High,0,1,1
+U345,S8852,14-01-2026 15:54,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U863,S7300,09-02-2026 08:02,add_to_cart,78,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U305,S8677,17-02-2026 08:27,browse,47,Yes,,Yes,erosion,,,Medium,0,1,0
+U673,S2472,06-02-2026 17:58,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U854,S4992,13-02-2026 10:07,browse,11,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U198,S4496,06-01-2026 03:25,view_product,12,No,,Yes,normal,,,Low,0,0,0
+U558,S2723,02-02-2026 09:35,review_posted,33,Yes,,No,erosion,,,Medium,0,1,0
+U642,S6254,22-02-2026 11:45,help_center_visit,111,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U414,S9661,13-02-2026 16:04,browse,59,No,,No,erosion,,,Medium,0,0,0
+U525,S8757,04-02-2026 17:24,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U470,S7337,14-01-2026 04:49,browse,14,No,,Yes,normal,,,Low,0,0,0
+U153,S4326,12-02-2026 23:02,exit,84,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U141,S2421,23-01-2026 07:10,help_center_visit,145,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U787,S9771,03-02-2026 06:34,checkout_started,168,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U123,S1089,23-02-2026 13:25,browse,6,No,,Yes,normal,,,Low,0,0,0
+U243,S1545,19-02-2026 18:41,browse,6,No,,Yes,normal,,,Low,0,0,0
+U830,S8618,20-01-2026 05:04,review_posted,34,No,,Yes,erosion,,,Medium,0,0,0
+U333,S4163,15-02-2026 07:25,exit,35,Yes,,Yes,erosion,,,Medium,0,1,0
+U971,S3369,18-02-2026 22:13,browse,69,No,,Yes,erosion,,,High,0,0,0
+U898,S5742,19-02-2026 15:30,add_to_cart,10,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U737,S9746,26-01-2026 21:02,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U893,S6859,28-01-2026 16:21,checkout_started,135,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U124,S6102,09-01-2026 01:59,help_center_visit,90,No,,Yes,erosion,,,High,0,0,0
+U277,S6957,09-01-2026 14:35,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U714,S4711,22-02-2026 17:57,exit,87,Yes,,Yes,erosion,,,High,0,1,0
+U894,S2540,08-02-2026 06:48,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U192,S8185,12-02-2026 11:54,view_product,7,No,,Yes,normal,,,Low,0,0,0
+U353,S5493,22-02-2026 22:30,policy_view,77,No,,No,erosion,,,High,0,0,0
+U676,S4914,09-02-2026 19:47,checkout_started,132,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U279,S2176,09-02-2026 17:05,help_center_visit,64,No,,No,erosion,,,High,0,0,0
+U921,S4565,18-01-2026 06:01,help_center_visit,173,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U792,S4373,14-02-2026 14:21,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U753,S6900,23-02-2026 12:37,policy_view,53,No,,No,erosion,,,Medium,0,0,0
+U179,S1739,11-01-2026 03:40,exit,93,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U806,S6001,18-02-2026 06:25,help_center_visit,152,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U822,S5988,31-01-2026 13:40,exit,42,No,,No,erosion,,,Medium,0,0,0
+U869,S9529,13-01-2026 00:21,checkout_started,77,Yes,,No,erosion,,,High,1,1,0
+U961,S1751,04-01-2026 02:32,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U585,S8363,28-01-2026 06:20,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U967,S7188,26-01-2026 03:07,checkout_started,45,No,,No,erosion,,,Medium,1,0,0
+U201,S6249,01-01-2026 16:38,checkout_started,158,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U176,S2828,09-01-2026 05:10,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U357,S9317,02-01-2026 10:13,help_center_visit,80,Yes,Something feels different now,Yes,erosion,,,High,0,1,1
+U274,S8574,18-02-2026 00:52,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U485,S4604,30-01-2026 12:18,view_product,10,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U216,S3501,14-02-2026 17:09,help_center_visit,151,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U372,S2390,01-01-2026 09:33,add_to_cart,5,No,,Yes,normal,,,Low,0,0,0
+U791,S4247,11-02-2026 06:13,help_center_visit,48,Yes,Not very confident about this,No,erosion,,,Medium,0,1,1
+U822,S9465,11-01-2026 06:47,browse,8,No,,Yes,normal,,,Low,0,0,0
+U937,S2721,22-01-2026 13:54,exit,161,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U576,S8184,19-02-2026 06:18,help_center_visit,35,Yes,Something feels different now,Yes,erosion,,,Medium,0,1,1
+U237,S5305,14-01-2026 14:13,exit,111,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U814,S6926,03-02-2026 13:25,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U806,S8007,04-01-2026 16:23,browse,77,Yes,,Yes,erosion,,,High,0,1,0
+U274,S2846,19-01-2026 23:40,exit,143,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U599,S3652,06-01-2026 03:18,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U509,S3660,07-01-2026 02:50,add_to_cart,8,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U817,S1634,20-02-2026 12:48,browse,8,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U455,S4913,04-01-2026 06:33,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U692,S3528,12-01-2026 07:23,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U281,S4090,21-01-2026 11:32,browse,5,No,,Yes,normal,,,Low,0,0,0
+U772,S5777,27-01-2026 08:58,help_center_visit,112,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U344,S1893,16-02-2026 00:46,browse,72,No,,No,erosion,,,High,0,0,0
+U748,S2618,09-01-2026 12:59,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U914,S1830,12-01-2026 19:24,add_to_cart,13,No,,Yes,normal,,,Low,0,0,0
+U785,S8436,01-01-2026 01:51,checkout_started,53,No,,No,erosion,,,Medium,1,0,0
+U948,S5451,13-01-2026 00:33,view_product,14,No,,Yes,normal,,,Low,0,0,0
+U295,S9137,15-02-2026 18:19,add_to_cart,9,No,,Yes,normal,,,Low,0,0,0
+U178,S3730,05-01-2026 21:39,help_center_visit,49,Yes,I used to trust this more earlier,No,erosion,,,Medium,0,1,1
+U573,S6667,26-01-2026 11:31,view_product,60,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U332,S2151,05-02-2026 12:32,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U219,S6487,19-01-2026 13:28,browse,44,No,,Yes,erosion,,,Medium,0,0,0
+U491,S8883,25-01-2026 20:51,checkout_started,11,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U965,S1187,10-01-2026 14:39,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U871,S9560,14-02-2026 11:06,help_center_visit,74,No,,Yes,erosion,,,High,0,0,0
+U859,S2747,10-01-2026 04:31,view_product,11,No,Easy to use,Yes,normal,,,Low,0,0,0
+U360,S5443,03-01-2026 21:28,help_center_visit,90,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U339,S5211,19-01-2026 16:03,payment_page_viewed,47,No,,No,erosion,,,Medium,0,0,0
+U546,S2624,07-02-2026 07:57,add_to_cart,38,No,Not very confident about this,Yes,erosion,,,Medium,0,0,1
+U964,S3141,07-01-2026 14:36,help_center_visit,101,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U859,S3733,13-02-2026 20:45,checkout_started,83,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U126,S8427,15-02-2026 20:12,view_product,5,No,,Yes,normal,,,Low,0,0,0
+U719,S7795,27-01-2026 19:01,exit,136,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U916,S5746,05-02-2026 19:11,help_center_visit,46,No,,Yes,erosion,,,Medium,0,0,0
+U845,S3696,03-01-2026 11:50,exit,102,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U552,S3750,10-01-2026 11:35,view_product,7,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U388,S9830,07-02-2026 17:44,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U613,S4001,22-02-2026 22:48,exit,104,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U112,S1486,16-01-2026 19:01,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U485,S6304,04-01-2026 07:10,browse,10,No,,Yes,normal,,,Low,0,0,0
+U580,S2372,03-02-2026 14:04,browse,6,No,,Yes,normal,,,Low,0,0,0
+U126,S1153,10-01-2026 02:26,exit,39,Yes,,No,erosion,,,Medium,0,1,0
+U327,S3438,10-01-2026 20:31,add_to_cart,43,No,Will think before buying,Yes,erosion,,,Medium,0,0,1
+U885,S2849,09-02-2026 15:51,policy_view,40,No,,No,erosion,,,Medium,0,0,0
+U490,S6406,07-02-2026 10:38,exit,128,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U175,S8989,06-02-2026 01:21,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U448,S5334,01-02-2026 01:23,help_center_visit,149,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U237,S6497,24-01-2026 21:18,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U494,S8711,04-02-2026 15:10,checkout_started,129,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U161,S4794,31-01-2026 20:20,checkout_started,37,No,,Yes,erosion,,,Medium,0,0,0
+U679,S2016,01-01-2026 12:27,exit,160,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U516,S2286,01-01-2026 20:55,view_product,51,No,Something feels different now,No,erosion,,,Medium,0,0,1
+U776,S7077,20-01-2026 21:54,checkout_started,140,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U568,S4761,21-01-2026 02:46,exit,33,No,,Yes,erosion,,,Medium,0,0,0
+U715,S6691,06-01-2026 21:23,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U759,S9425,05-01-2026 00:48,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U269,S1214,14-01-2026 21:59,review_posted,30,Yes,Seems okay but I'm not fully sure,No,erosion,,,Medium,0,1,1
+U904,S1723,01-02-2026 16:35,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U358,S4914,02-02-2026 15:29,checkout_started,88,No,,No,erosion,,,High,1,0,0
+U296,S5001,15-01-2026 22:28,exit,57,Yes,Something feels different now,No,erosion,,,Medium,0,1,1
+U783,S5853,21-01-2026 17:13,checkout_started,156,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U417,S5533,28-01-2026 05:37,view_product,50,Yes,,No,erosion,,,Medium,0,1,0
+U998,S7040,22-01-2026 17:28,help_center_visit,84,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U350,S2563,01-01-2026 16:45,exit,60,No,,Yes,erosion,,,High,0,0,0
+U742,S5624,20-01-2026 03:54,payment_page_viewed,78,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U478,S4813,02-01-2026 03:35,exit,82,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U957,S7500,21-02-2026 12:18,exit,120,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U371,S1560,04-02-2026 11:17,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U914,S4492,01-02-2026 06:41,browse,13,No,,Yes,normal,,,Low,0,0,0
+U987,S7112,14-01-2026 03:38,browse,14,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U440,S8888,19-01-2026 07:26,browse,6,No,,Yes,normal,,,Low,0,0,0
+U178,S7895,23-02-2026 12:25,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U985,S3710,23-01-2026 11:52,checkout_started,85,Yes,I don't trust this platform anymore,No,broken,,,High,1,1,0
+U946,S5020,04-01-2026 01:19,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U885,S7066,01-02-2026 14:30,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U765,S7147,15-02-2026 19:48,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U571,S5287,28-01-2026 16:24,help_center_visit,116,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U350,S8389,13-01-2026 19:11,help_center_visit,167,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U614,S4141,16-02-2026 08:21,checkout_started,9,No,,Yes,normal,,,Low,0,0,0
+U806,S5522,21-02-2026 19:36,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U900,S7095,10-02-2026 00:38,checkout_started,7,No,,Yes,normal,,,Low,0,0,0
+U960,S3540,09-01-2026 11:12,payment_page_viewed,72,No,,Yes,erosion,,,High,0,0,0
+U900,S6250,01-01-2026 09:36,policy_view,68,No,,Yes,erosion,,,High,0,0,0
+U118,S3896,02-02-2026 07:39,exit,158,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U142,S4906,16-01-2026 19:59,payment_page_viewed,35,Yes,Not very confident about this,Yes,erosion,,,Medium,0,1,1
+U222,S5932,15-02-2026 00:44,add_to_cart,7,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U909,S5866,10-02-2026 05:33,browse,13,No,,Yes,normal,,,Low,0,0,0
+U128,S2473,10-02-2026 11:52,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U480,S4306,13-02-2026 02:17,payment_page_viewed,70,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U937,S9122,02-01-2026 07:04,exit,81,No,,No,erosion,,,High,0,0,0
+U844,S2622,20-02-2026 03:06,add_to_cart,8,No,,Yes,normal,,,Low,0,0,0
+U812,S5569,26-01-2026 14:20,policy_view,35,No,,No,erosion,,,Medium,0,0,0
+U907,S9137,02-01-2026 21:23,browse,61,No,Seems okay but I'm not fully sure,No,erosion,,,High,0,0,1
+U398,S5922,20-01-2026 22:03,help_center_visit,38,No,Will think before buying,Yes,erosion,,,Medium,0,0,1
+U282,S8295,21-01-2026 22:34,review_posted,39,No,,Yes,erosion,,,Medium,0,0,0
+U336,S2606,28-01-2026 05:57,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U446,S9509,17-01-2026 09:29,browse,10,No,,Yes,normal,,,Low,0,0,0
+U502,S7707,17-01-2026 03:28,payment_page_viewed,84,No,,Yes,erosion,,,High,0,0,0
+U841,S8818,10-01-2026 10:30,exit,79,No,,Yes,erosion,,,High,0,0,0
+U992,S3601,02-02-2026 23:39,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U640,S2386,22-01-2026 22:32,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U337,S4538,13-01-2026 01:20,policy_view,88,No,,Yes,erosion,,,High,0,0,0
+U788,S9376,07-01-2026 05:09,checkout_started,38,No,,No,erosion,,,Medium,1,0,0
+U341,S4061,29-01-2026 00:27,checkout_started,73,Yes,I used to trust this more earlier,No,erosion,,,High,1,1,1
+U454,S9924,17-02-2026 05:39,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U377,S6378,04-01-2026 03:10,help_center_visit,46,Yes,Something feels different now,Yes,erosion,,,Medium,0,1,1
+U484,S9137,06-01-2026 19:06,help_center_visit,144,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U890,S8881,03-01-2026 15:26,view_product,13,No,,Yes,normal,,,Low,0,0,0
+U468,S1662,22-02-2026 11:05,help_center_visit,135,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U433,S6350,18-02-2026 06:54,review_posted,76,Yes,,No,erosion,,,High,0,1,0
+U549,S4261,13-02-2026 06:54,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U475,S7856,16-01-2026 07:34,exit,89,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U849,S2328,14-02-2026 23:50,policy_view,79,Yes,,Yes,erosion,,,High,0,1,0
+U537,S3300,01-01-2026 04:02,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U283,S5196,21-01-2026 11:04,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U899,S4357,03-02-2026 11:04,add_to_cart,11,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U930,S4413,18-01-2026 08:50,view_product,10,No,,Yes,normal,,,Low,0,0,0
+U659,S3734,01-01-2026 17:04,view_product,7,No,,Yes,normal,,,Low,0,0,0
+U371,S4593,29-01-2026 10:14,policy_view,32,No,Not very confident about this,No,erosion,,,Medium,0,0,1
+U645,S8237,15-01-2026 02:29,exit,68,Yes,,No,erosion,,,High,0,1,0
+U253,S2505,09-01-2026 00:31,exit,95,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U600,S1211,13-01-2026 08:14,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U756,S4623,05-02-2026 22:37,browse,6,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U384,S6303,01-02-2026 09:17,checkout_started,13,No,Smooth experience,Yes,normal,,,Low,0,0,0
+U847,S3029,11-01-2026 14:41,checkout_started,89,No,,Yes,erosion,,,High,0,0,0
+U371,S1124,03-01-2026 03:49,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U800,S9817,25-01-2026 12:43,policy_view,43,Yes,,Yes,erosion,,,Medium,0,1,0
+U517,S5145,21-02-2026 19:03,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U182,S5237,03-02-2026 05:46,add_to_cart,7,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U497,S7445,18-02-2026 11:38,view_product,12,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U323,S7057,17-02-2026 19:51,help_center_visit,177,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U251,S2120,31-01-2026 12:53,checkout_started,83,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U340,S7346,09-02-2026 06:51,help_center_visit,157,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U843,S3830,06-02-2026 14:43,view_product,51,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,Medium,0,1,1
+U356,S7077,02-02-2026 20:44,checkout_started,73,Yes,Not very confident about this,Yes,erosion,,,High,0,1,1
+U371,S5166,05-02-2026 06:49,payment_page_viewed,82,No,,No,erosion,,,High,0,0,0
+U916,S7924,19-02-2026 16:33,checkout_started,80,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U301,S2095,03-02-2026 15:21,view_product,74,No,Not very confident about this,No,erosion,,,High,0,0,1
+U454,S5407,08-01-2026 08:47,checkout_started,50,Yes,,Yes,erosion,,,Medium,0,1,0
+U602,S6249,06-01-2026 03:29,checkout_started,9,No,,Yes,normal,,,Low,0,0,0
+U704,S2290,22-01-2026 16:23,help_center_visit,179,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U679,S4532,07-01-2026 01:40,help_center_visit,54,No,,No,erosion,,,Medium,0,0,0
+U125,S3320,04-02-2026 09:23,review_posted,59,No,,No,erosion,,,Medium,0,0,0
+U143,S9528,20-01-2026 02:41,policy_view,58,No,,Yes,erosion,,,Medium,0,0,0
+U776,S4602,13-01-2026 03:35,payment_page_viewed,90,Yes,,Yes,erosion,,,High,0,1,0
+U211,S2967,29-01-2026 08:25,help_center_visit,124,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U530,S5468,17-01-2026 01:18,help_center_visit,103,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U535,S7941,04-01-2026 11:16,exit,168,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U225,S4281,31-01-2026 15:45,browse,8,No,,Yes,normal,,,Low,0,0,0
+U239,S3257,11-02-2026 10:36,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U446,S9593,03-02-2026 08:39,checkout_started,14,No,,Yes,normal,,,Low,0,0,0
+U962,S9959,01-01-2026 23:03,view_product,58,Yes,,No,erosion,,,Medium,0,1,0
+U783,S4743,03-01-2026 22:18,browse,11,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U639,S1277,16-02-2026 13:05,checkout_started,120,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U134,S4531,10-01-2026 18:21,view_product,13,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U655,S4831,08-02-2026 07:04,checkout_started,6,No,,Yes,normal,,,Low,0,0,0
+U141,S3612,05-02-2026 08:31,add_to_cart,30,Yes,,No,erosion,,,Medium,0,1,0
+U400,S6419,23-02-2026 04:28,add_to_cart,10,No,,Yes,normal,,,Low,0,0,0
+U358,S3470,23-01-2026 00:03,view_product,14,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U780,S5864,16-02-2026 16:30,browse,11,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U485,S7824,22-02-2026 12:19,checkout_started,51,Yes,,Yes,erosion,,,Medium,0,1,0
+U911,S8090,24-01-2026 18:38,checkout_started,143,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U845,S4393,06-02-2026 10:11,checkout_started,64,No,Something feels different now,No,erosion,,,High,1,0,1
+U674,S8029,04-02-2026 05:55,checkout_started,117,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U784,S4349,11-01-2026 05:04,view_product,89,No,,No,erosion,,,High,0,0,0
+U695,S6035,27-01-2026 04:55,checkout_started,138,Yes,Lost confidence completely,No,broken,,,High,1,1,0
+U117,S1950,13-02-2026 01:56,exit,47,No,,No,erosion,,,Medium,0,0,0
+U274,S6210,22-01-2026 12:01,checkout_started,64,No,I used to trust this more earlier,No,erosion,,,High,1,0,1
+U616,S8841,08-01-2026 05:27,help_center_visit,80,No,Will think before buying,Yes,erosion,,,High,0,0,1
+U141,S7296,19-02-2026 15:04,checkout_started,8,No,,Yes,normal,,,Low,0,0,0
+U221,S7942,02-01-2026 12:19,add_to_cart,37,No,,No,erosion,,,Medium,0,0,0
+U958,S2071,18-02-2026 19:57,add_to_cart,11,No,,Yes,normal,,,Low,0,0,0
+U410,S3407,03-01-2026 02:17,policy_view,34,No,,No,erosion,,,Medium,0,0,0
+U777,S7188,19-01-2026 06:33,exit,78,Yes,Will think before buying,No,erosion,,,High,0,1,1
+U627,S3680,18-02-2026 10:48,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U745,S8774,19-02-2026 01:09,exit,44,No,,No,erosion,,,Medium,0,0,0
+U603,S2797,09-02-2026 16:47,add_to_cart,9,No,Easy to use,Yes,normal,,,Low,0,0,0
+U642,S2706,08-02-2026 18:46,help_center_visit,85,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,0,1,1
+U386,S8151,29-01-2026 10:44,checkout_started,7,No,Easy to use,Yes,normal,,,Low,0,0,0
+U942,S6060,01-02-2026 17:26,policy_view,32,Yes,Will think before buying,No,erosion,,,Medium,0,1,1
+U639,S3904,21-01-2026 12:30,browse,8,No,,Yes,normal,,,Low,0,0,0
+U540,S3749,30-01-2026 00:38,browse,35,Yes,,No,erosion,,,Medium,0,1,0
+U439,S1915,13-01-2026 09:31,view_product,14,No,Easy to use,Yes,normal,,,Low,0,0,0
+U793,S2341,31-01-2026 14:34,checkout_started,151,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U603,S6602,24-01-2026 21:11,help_center_visit,102,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U459,S7719,11-02-2026 13:37,help_center_visit,61,Yes,,Yes,erosion,,,High,0,1,0
+U253,S2190,15-02-2026 09:29,checkout_started,13,No,,Yes,normal,,,Low,0,0,0
+U529,S9192,17-01-2026 17:43,payment_page_viewed,37,Yes,,Yes,erosion,,,Medium,0,1,0
+U691,S8052,31-01-2026 03:04,policy_view,39,No,,No,erosion,,,Medium,0,0,0
+U918,S8729,01-02-2026 07:21,checkout_started,15,No,,Yes,normal,,,Low,0,0,0
+U462,S5797,25-01-2026 18:09,add_to_cart,7,No,,Yes,normal,,,Low,0,0,0
+U538,S5447,04-02-2026 18:20,add_to_cart,15,No,,Yes,normal,,,Low,0,0,0
+U138,S1275,03-01-2026 21:34,payment_page_viewed,37,Yes,,No,erosion,,,Medium,0,1,0
+U172,S5727,17-02-2026 20:09,help_center_visit,167,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U405,S2510,14-01-2026 13:50,view_product,48,Yes,I used to trust this more earlier,Yes,erosion,,,Medium,0,1,1
+U183,S2916,31-01-2026 03:52,checkout_started,76,Yes,Seems okay but I'm not fully sure,Yes,erosion,,,High,0,1,1
+U736,S9263,22-01-2026 01:09,checkout_started,163,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U572,S1189,02-02-2026 23:23,help_center_visit,112,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U558,S2551,20-02-2026 10:55,checkout_started,156,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U787,S6791,08-02-2026 07:48,checkout_started,177,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U507,S9309,23-01-2026 10:12,browse,15,No,,Yes,normal,,,Low,0,0,0
+U740,S1358,16-01-2026 18:28,add_to_cart,65,Yes,,Yes,erosion,,,High,0,1,0
+U444,S1368,14-02-2026 18:59,help_center_visit,155,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U537,S2444,03-01-2026 16:09,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U485,S7701,12-02-2026 15:12,review_posted,72,No,,No,erosion,,,High,0,0,0
+U750,S7488,20-01-2026 00:26,exit,113,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U144,S8188,31-01-2026 05:57,view_product,6,No,,Yes,normal,,,Low,0,0,0
+U826,S7369,19-02-2026 00:11,checkout_started,9,No,,Yes,normal,,,Low,0,0,0
+U794,S4581,12-02-2026 14:47,view_product,15,No,Everything looks good,Yes,normal,,,Low,0,0,0
+U857,S9326,12-01-2026 10:54,checkout_started,5,No,,Yes,normal,,,Low,0,0,0
+U477,S5082,21-02-2026 03:50,view_product,7,No,,Yes,normal,,,Low,0,0,0
+U718,S3191,15-02-2026 06:57,browse,66,Yes,Something feels different now,Yes,erosion,,,High,0,1,1
+U611,S3586,15-02-2026 16:07,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U426,S6812,28-01-2026 03:53,policy_view,57,No,I used to trust this more earlier,Yes,erosion,,,Medium,0,0,1
+U719,S1231,30-01-2026 18:07,exit,176,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U315,S8151,08-02-2026 08:49,browse,10,No,,Yes,normal,,,Low,0,0,0
+U127,S9109,25-01-2026 19:21,view_product,11,No,,Yes,normal,,,Low,0,0,0
+U981,S8205,05-02-2026 06:32,checkout_started,108,Yes,Payment process feels unsafe,No,broken,,,High,1,1,0
+U181,S2292,30-01-2026 00:24,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U517,S8216,05-01-2026 08:26,checkout_started,7,No,,Yes,normal,,,Low,0,0,0
+U385,S4386,09-01-2026 05:13,checkout_started,54,Yes,,Yes,erosion,,,Medium,0,1,0
+U841,S3111,12-01-2026 01:46,checkout_started,125,Yes,Very confusing experience,No,broken,,,High,1,1,0
+U543,S4615,20-01-2026 10:26,browse,82,Yes,Seems okay but I'm not fully sure,No,erosion,,,High,0,1,1
+U368,S9900,02-01-2026 17:08,view_product,50,No,,Yes,erosion,,,Medium,0,0,0
+U425,S9168,16-01-2026 12:31,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U392,S9825,02-01-2026 11:22,browse,85,Yes,,No,erosion,,,High,0,1,0
+U238,S5098,22-01-2026 05:23,browse,7,No,,Yes,normal,,,Low,0,0,0
+U752,S1123,16-01-2026 19:08,view_product,68,No,Not very confident about this,No,erosion,,,High,0,0,1
+U189,S4067,24-01-2026 13:54,browse,8,No,Easy to use,Yes,normal,,,Low,0,0,0
+U746,S2509,07-02-2026 01:51,checkout_started,77,Yes,,No,erosion,,,High,1,1,0
+U924,S4973,16-01-2026 16:42,browse,56,No,Will think before buying,No,erosion,,,Medium,0,0,1
+U883,S7882,25-01-2026 03:25,view_product,15,No,,Yes,normal,,,Low,0,0,0
+U314,S6642,22-02-2026 10:15,help_center_visit,106,Yes,Very confusing experience,No,broken,,,High,0,1,0
+U664,S8695,24-01-2026 15:20,exit,178,Yes,Lost confidence completely,No,broken,,,High,0,1,0
+U580,S3336,27-01-2026 15:03,view_product,12,No,,Yes,normal,,,Low,0,0,0
+U178,S8067,12-02-2026 20:06,add_to_cart,14,No,,Yes,normal,,,Low,0,0,0
+U478,S3227,30-01-2026 13:42,add_to_cart,6,No,,Yes,normal,,,Low,0,0,0
+U634,S8958,10-01-2026 00:09,help_center_visit,107,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U665,S1076,09-02-2026 17:25,review_posted,90,Yes,,Yes,erosion,,,High,0,1,0
+U548,S5186,03-01-2026 18:47,payment_page_viewed,87,Yes,Will think before buying,Yes,erosion,,,High,0,1,1
+U894,S9041,07-01-2026 21:36,add_to_cart,76,Yes,,Yes,erosion,,,High,0,1,0
+U821,S8447,07-02-2026 15:54,checkout_started,12,No,,Yes,normal,,,Low,0,0,0
+U705,S5366,12-01-2026 07:41,add_to_cart,12,No,,Yes,normal,,,Low,0,0,0
+U570,S7932,18-01-2026 21:17,browse,10,No,,Yes,normal,,,Low,0,0,0
+U192,S8145,03-02-2026 04:55,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U924,S4849,19-01-2026 16:23,add_to_cart,75,Yes,I used to trust this more earlier,No,erosion,,,High,0,1,1
+U329,S8964,20-02-2026 08:15,exit,100,Yes,I don't trust this platform anymore,No,broken,,,High,0,1,0
+U195,S6586,23-01-2026 10:30,browse,33,No,,No,erosion,,,Medium,0,0,0
+U608,S4685,11-02-2026 15:54,browse,12,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U165,S2502,20-02-2026 07:30,add_to_cart,50,Yes,,Yes,erosion,,,Medium,0,1,0
+U241,S6800,17-02-2026 16:14,exit,170,Yes,Payment process feels unsafe,No,broken,,,High,0,1,0
+U593,S9243,27-01-2026 03:40,view_product,8,No,,Yes,normal,,,Low,0,0,0
+U657,S1467,01-02-2026 13:22,exit,34,No,,No,erosion,,,Medium,0,0,0
+U208,S8966,18-01-2026 20:14,checkout_started,11,No,,Yes,normal,,,Low,0,0,0
+U980,S4546,19-02-2026 15:46,browse,60,Yes,,Yes,erosion,,,High,0,1,0
+U584,S5709,06-02-2026 05:51,policy_view,37,Yes,Not very confident about this,Yes,erosion,,,Medium,0,1,1
+U687,S5828,17-02-2026 20:56,browse,15,No,Satisfied with the process,Yes,normal,,,Low,0,0,0
+U550,S4334,17-02-2026 03:53,add_to_cart,14,No,Easy to use,Yes,normal,,,Low,0,0,0
