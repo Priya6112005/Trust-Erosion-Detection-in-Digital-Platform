@@ -1,15 +1,15 @@
-# Trust Erosion Detection System
+Trust Erosion Detection System
 
 An AI-powered backend that detects early warning signs of **customer trust erosion** during an online shopping session — before the customer actually leaves the platform — and automatically alerts the platform manager with the likely cause and a recommended action.
 
-## 📌 Overview
+ 📌 Overview
 
 Ecommerce platforms often lose customers silently. A manager rarely finds out *why* a customer abandoned checkout, hesitated too long, or seemed frustrated — until it's too late, and the same underlying issue often repeats across many different customers.
 
 This system continuously analyzes live customer session data, calculates a **Trust Score**, identifies the specific reason trust is eroding, and sends the platform manager an actionable email alert — so they can intervene quickly and fix recurring problems before more customers are lost.
 
 
-## 🔄 System Workflow
+ 🔄 System Workflow
 
 Customer Session Data
         ↓
@@ -28,7 +28,7 @@ Gmail Alert
 Manager receives an actionable email
 
 
-## ✨ Key Features
+ ✨ Key Features
 
 - Real-time analysis of customer sessions across three dimensions: sentiment, behavior, and interaction
 - Weighted Trust Score calculation with four risk levels: **LOW / MEDIUM / HIGH / CRITICAL**
@@ -38,7 +38,7 @@ Manager receives an actionable email
 - Lightweight, beginner-friendly FastAPI backend with interactive Swagger UI for testing
 
 
-## 📊 Dataset / Input Data
+ 📊 Dataset / Input Data
 
 This system does not require a pre-collected historical dataset — it operates on **live session data** submitted per customer interaction. Each request represents a single customer session.
 
@@ -58,8 +58,7 @@ This system does not require a pre-collected historical dataset — it operates 
 For accurate detection, each session payload should reflect genuine behavioral signals — for example, real elapsed hesitation time (not estimated), an accurate count of policy page visits, and the customer's actual message text where available. Missing or synthetic values will still be processed, but may reduce the accuracy of the resulting Trust Score.
 
 ---
-
-## 🧩 Overall Pipeline
+🧩 Overall Pipeline
 
 1. **Ingestion** — Session data is sent to the `/analyze-session` FastAPI endpoint
 2. **Sentiment Analysis** — `sentiment.py` scores the customer's text
@@ -73,7 +72,7 @@ For accurate detection, each session payload should reflect genuine behavioral s
 7. **Personalization** — `personalization.py` maps the primary reason to a `customer_problem` explanation and a `recommended_action`
 8. **Alerting** — If `final_trust_score` falls below the threshold, the data is sent to an n8n webhook, which formats and sends a Gmail alert to the platform manager
 
-## 🤖 Model / Scoring Approach Used
+🤖 Model / Scoring Approach Used
 
 This project currently uses a **rule-based scoring and personalization approach** rather than a trained machine learning model:
 - Sentiment, behavior, and interaction scores are computed using deterministic logic
@@ -83,7 +82,7 @@ This project currently uses a **rule-based scoring and personalization approach*
 
 
 
-## 📈 Performance Metrics & Testing Tool
+📈 Performance Metrics & Testing Tool
 
 - **Testing Tool:** FastAPI's built-in **Swagger UI** (`/docs`) was used for manual endpoint testing and validating responses during development
 - **Manual Test Scenarios:**
@@ -96,7 +95,7 @@ This project currently uses a **rule-based scoring and personalization approach*
 
 
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - **Python** — core backend language
 - **FastAPI** — REST API framework for session analysis and scoring
@@ -106,39 +105,39 @@ This project currently uses a **rule-based scoring and personalization approach*
 - **python-dotenv** — environment variable management for secrets
 
 
-## 💻 Installation
+💻 Installation
 
 ### Prerequisites
 - Python 3.10+
 - pip
 - An n8n account/workflow with a configured Webhook + Gmail node
 
-### Clone the repository
+Clone the repository
 
 git clone https://github.com/xxx/project_name.git
 cd Trust-Erosion-Detection-in-Digital-Platform
 
 
-### Windows
+Windows
 
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 
 
-### Linux / macOS
+Linux / macOS
 
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
 
-### Set up environment variables
+Set up environment variables
 Create a `.env` file in the project root:
 
 WEBHOOK_URL=your_n8n_webhook_url_here
 
-## ▶️ How to Run Locally
+▶️ How to Run Locally
 
 1. Activate your virtual environment (see above)
 2. Start the FastAPI server:
@@ -153,7 +152,7 @@ WEBHOOK_URL=your_n8n_webhook_url_here
 5. If the trust score falls below the alert threshold, check the connected n8n workflow and the manager's inbox for the alert email
 
 
-## 🎯 Project Objective
+🎯 Project Objective
 
 The objective of this project is to give ecommerce platform managers **real-time, actionable visibility** into why customers are losing trust and disengaging — before they leave for good. By automatically detecting behavioral and sentiment-based warning signs and translating them into a clear explanation and recommended action, this system aims to help businesses intervene proactively and fix recurring platform issues, ultimately reducing customer churn caused by preventable, repeated problems.
 
