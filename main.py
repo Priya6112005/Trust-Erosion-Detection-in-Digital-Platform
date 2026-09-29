@@ -17,36 +17,35 @@ app = FastAPI()
 
 THRESHOLD = 50
 
-# Paste your n8n webhook URL here
 WEBHOOK_URL = os.getenv("WEBHOOK_URL")
 
 @app.post("/analyze-session")
 def analyze_session(data: SessionData):
 
-    # 1. Analyze customer sentiment
+    
     sentiment_score = analyze_sentiment(data.text)
 
-    # 2. Analyze customer behavior
+   
     behavior_score = analyze_behavior(
         data.abandonment,
         data.policy_checks,
         data.hesitation_time
     )
 
-    # 3. Analyze customer interaction
+   
     interaction_score = analyze_interaction(
         data.messages_count,
         data.dispute_flag
     )
 
-    # 4. Calculate final trust score
+   
     final_trust_score = compute_trust_score(
         sentiment_score,
         behavior_score,
         interaction_score
     )
 
-    # 5. Find reasons for trust erosion
+    
     reasons = []
 
     if data.hesitation_time > 80:
@@ -61,7 +60,6 @@ def analyze_session(data: SessionData):
     if data.abandonment == 1:
         reasons.append("Checkout abandonment detected")
 
-    # 6. Determine risk level
     if final_trust_score < 40:
         risk_level = "CRITICAL"
 
@@ -76,19 +74,19 @@ def analyze_session(data: SessionData):
 
     personalization = get_personalization(reasons)
 
-    # 7. Generate alert for risky customers
+   
     alert_message = None
     webhook_status = None
 
     if final_trust_score < THRESHOLD:
 
-        # Generate alert message
+      
         alert_message = generate_alert(
             final_trust_score,
             reasons
         )
 
-        # Package data to send to n8n
+        
         webhook_data = {
     "trust_score": final_trust_score,
     "risk_level": risk_level,
@@ -98,7 +96,7 @@ def analyze_session(data: SessionData):
     "recommended_action": personalization["recommended_action"]
 }
 
-        # Send data to n8n
+   
         try:
             response = requests.post(
                 WEBHOOK_URL,
@@ -115,7 +113,7 @@ def analyze_session(data: SessionData):
             print("N8N ERROR:", e)
             webhook_status = "Failed"
 
-    # 8. Return complete analysis result
+
         return {
         "sentiment_score": sentiment_score,
         "behavior_score": behavior_score,
